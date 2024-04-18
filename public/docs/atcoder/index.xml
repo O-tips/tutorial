@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AtCoder on O-tips_tutorial</title>
+    <link>http://localhost:1313/docs/atcoder/</link>
+    <description>Recent content in AtCoder on O-tips_tutorial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/docs/atcoder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AtCoderに登録しよう</title>
+      <link>http://localhost:1313/docs/atcoder/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/atcoder/registration/</guid>
+      <description> 登録！ # </description>
+    </item>
+    <item>
+      <title>AtCoder Problemsを使おう</title>
+      <link>http://localhost:1313/docs/atcoder/probs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/atcoder/probs/</guid>
+      <description> AtCoder Problemsを使ってみよう # </description>
+    </item>
+    <item>
+      <title>GitHubに登録しよう</title>
+      <link>http://localhost:1313/docs/atcoder/github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/atcoder/github/</guid>
+      <description> GitHubのアカウントを作ろう！ # </description>
+    </item>
+    <item>
+      <title>バーチャルコンテストを開いてみよう</title>
+      <link>http://localhost:1313/docs/atcoder/virtual_contest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/atcoder/virtual_contest/</guid>
+      <description> バーチャルコンテストを開いてみよう！ # </description>
+    </item>
+  </channel>
+</rss>

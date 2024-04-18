@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'O-tips_tutorial'
+theme = 'hugo-book'
