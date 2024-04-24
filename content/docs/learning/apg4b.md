@@ -3,8 +3,12 @@ title: "APG4B"
 weight: 10
 ---
 
-# APG4Bはいいぞ
+# APG4bをはじめよう
+## APG4bとは？
+AtCoderで提供されている競技プログラミングの初心者向けガイド。  
+プログラムの文法や簡単な例題などが学べる。
+現在C++, Python(\~1章)の2つの言語が提供されている。
 
-C++
+C++ https://atcoder.jp/contests/APG4b
 
-Python
+Python https://atcoder.jp/contests/APG4bPython
