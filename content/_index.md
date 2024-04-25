@@ -2,15 +2,13 @@
 title: Introduction
 type: docs
 ---
-# O-tips チュートリアル
+# Welcome to O-tips!
 
-## 初心者向け
-- atcoder登録
-- c++
-- apg4b
-いろいろページリンク貼る
+## このページは？
+O-tipsで教えてたノウハウなどをまとめるページです．
 
-## 中級者向け
+### 新入生向け
+- まずは[こちら](docs/roadmap/01_start_from_here)の入門編をクリアしてみましょう！
 
-
-## 上級者向け
+### 先輩向け
+- 執筆などもあれば声かけてください
