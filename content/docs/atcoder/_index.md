@@ -5,4 +5,7 @@ bookCollapseSection: true
 title: "AtCoder"
 ---
 
-# AtCoderを始めよう
+# AtCoderとは？
+競技プログラミングの国内最大規模のコンテストサイトです。
+
+https://info.atcoder.jp/overview/about/atcoder

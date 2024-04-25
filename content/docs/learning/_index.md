@@ -2,7 +2,21 @@
 weight: 30
 bookFlatSection: true
 bookCollapseSection: true
-title: "勉強お役立ちまとめ"
+title: "学習コンテンツ"
 ---
 
-# 頑張るぞ〜
+# 学習コンテンツまとめ
+いろいろかく
+
+## AtCoder
+
+
+## AOJ
+
+
+## アルゴ式
+
+
+## Progate
+
+

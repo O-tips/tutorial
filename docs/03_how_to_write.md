@@ -5,7 +5,7 @@
 こちらに[Example site](https://hugo-book-demo.netlify.app/docs/shortcodes/tabs/)もあります．
 - Shortcodesの欄などが参考になるかも
 - ソースが見たい場合は[GitHub](https://github.com/alex-shpak/hugo-book/tree/main/exampleSite)から
-
+- [Hugo で使える Markdown の記法](https://k-kaz-git.github.io/post/hugo-markdown/)
 ## ディレクトリ
 - 各ディレクトリに`_index.md`というファイルを作成する。
 - 各ファイルの最初にメタデータを書け、これにより左のバーの階層が変わる
