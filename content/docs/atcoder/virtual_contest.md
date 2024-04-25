@@ -10,7 +10,8 @@ weight: 25
 
 
 ## 事前準備
-GitHubのアカウントが必要になるので、[こちら](content/docs/env/GitHub/github)を参考にして作成しておいてください。
+[こちら](content/docs/atcoder/probs)を参考にして、AtCoder Problemsにログインできる状態にしておいてください。
 
 
 ## 機能
+// TODO
