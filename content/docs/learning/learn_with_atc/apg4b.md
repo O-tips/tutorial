@@ -31,15 +31,15 @@ AtCoderで提供されている競技プログラミングの初心者向けガ�
 ## 構成
 ### 問題ページを開く
 トップページにこのように目次があるので、、学習したい単元をクリックして開きます。
-{{< figure src="/images/apg4b/1_top.png" width="500">}}
+{{< figure src="../../../../images/apg4b/1_top.png" width="500">}}
 問題タブからも同様にみることができます。
-{{< figure src="/images/apg4b/1-1_probs.png" width="500">}}
+{{< figure src="../../../../images/apg4b/1-1_probs.png" width="500">}}
 すると、このように説明が続きます。
-{{< figure src="/images/apg4b/2_description.png" width="500">}}
+{{< figure src="../../../../images/apg4b/2_description.png" width="500">}}
 下の方には練習問題を解答するためのコード記述欄(エディタ)があります。
 こちらにコードを書いて提出を押すと採点がされます。
 
-{{< figure src="/images/apg4b/3_submit_form.png" width="500">}}
+{{< figure src="../../../../images/apg4b/3_submit_form.png" width="500">}}
 
 {{< hint danger >}}
 言語の欄が間違っていないか確かめましょう！  
@@ -47,9 +47,9 @@ AtCoderで提供されている競技プログラミングの初心者向けガ�
 {{< /hint >}}
 ## コードテスト
 また、コードテストタブからも同様に実行が行えます。
-{{< figure src="/images/apg4b/4_code_test_1.png" width="500">}}
+{{< figure src="../../../../images/apg4b/4_code_test_1.png" width="500">}}
 標準入力欄に入力を入れて試すこともできます。  
 結果は下に表示されます。
-{{< figure src="/images/apg4b/5_code_test_2.png" width="500">}}
+{{< figure src="../../../../images/apg4b/5_code_test_2.png" width="500">}}
             
      

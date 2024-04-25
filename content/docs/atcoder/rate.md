@@ -16,8 +16,8 @@ AtCoderでは、自身のコンテストの成績(パフォーマンス)によ�
 AtCoderではレートに対応した色が存在します。
 
 ざっくりレベル帯などを表すのに使用されたりもします。
-{{< figure src="/images/atc/12_rate.png" width="500">}}
-{{< figure src="/images/atc/11_color.png" width="500">}}
+{{< figure src="../../images/atc/12_rate.png" width="500">}}
+{{< figure src="../../images/atc/11_color.png" width="500">}}
 
 
 詳しくは[こちら](https://info.atcoder.jp/overview/contest/rating)
