@@ -1,5 +1,5 @@
 ---
 bookCollapseSection: true
-weight: 20
+weight: 60
 title: "ライブラリの導入"
 ---

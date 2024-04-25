@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 20
 bookFlatSection: true
 bookCollapseSection: true
 title: "AtCoder"

@@ -1,6 +1,7 @@
 ---
 bookCollapseSection: true
-weight: 20
+bookFlatSection: false
+weight: 30
 title: "エディタ"
 ---
 
