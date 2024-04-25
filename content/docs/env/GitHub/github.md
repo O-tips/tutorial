@@ -1,5 +1,5 @@
 ---
-title: "GitHubに登録しよう"
+title: "GitHubのアカウントを作ろう"
 weight: 10
 ---
 
