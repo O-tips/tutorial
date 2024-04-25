@@ -51,4 +51,4 @@ AtCoder User IDには[AtCoderに登録してみよう](/docs/atcoder/registratio
 | Middle | 茶色前半\~緑前半 |
 | Hard | 緑前半\~水色前半 |
 
-レートについては[レーティングについて](/docs/atcoder/rate)は参照してください。
+レートについては[レーティングについて](tutorial/docs/atcoder/rate)は参照してください。
