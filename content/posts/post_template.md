@@ -6,7 +6,6 @@ menu:
   main:
     parent: tutorials
 
-# 指定したものがnext, prevに
 next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
 
