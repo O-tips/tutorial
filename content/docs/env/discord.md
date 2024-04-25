@@ -12,23 +12,23 @@ Discord上ではテキストベースのやりとりから音声通話、画面�
 ## アカウントを作る
 
 まず、Discordの[トップページ](https://discord.com/)にアクセスします。
-{{< figure src="../../images/discord/1_top.png" width="500">}}
+{{< figure src="../../../images/discord/1_top.png" width="500">}}
 
 右上のログインボタンを押すとこのような画面になります。
-{{< figure src="../../images/discord/2_login.png" width="500">}}
+{{< figure src="../../../images/discord/2_login.png" width="500">}}
 
 登録という部分をクリックし、以下のようなフォームが出るのでこれを埋めてください。
 {{< hint warning >}}
 パスワードの確認欄がないので打ち間違えに気をつけましょう
 {{< /hint >}}
-{{< figure src="../../images/discord/3_register.png" width="500">}}
+{{< figure src="../../../images/discord/3_register.png" width="500">}}
 
 人間かどうかのチェックが入るかもしれないので、指示に従って進めてください。
-{{< figure src="../../images/discord/4_check.png" width="500">}}
+{{< figure src="../../../images/discord/4_check.png" width="500">}}
 
 これで登録が完了です。
 登録が完了すると自動的にDiscordにログインされます。
-{{< figure src="../../images/discord/5_login_succeeded.png" width="500">}}
+{{< figure src="../../../images/discord/5_login_succeeded.png" width="500">}}
 メールアドレスの認証をしておきましょう。
 
 ## アプリ版を入手する

@@ -10,7 +10,7 @@ weight: 25
 
 
 ## 事前準備
-[こちら](content/docs/atcoder/probs)を参考にして、AtCoder Problemsにログインできる状態にしておいてください。
+[こちら](../probs)を参考にして、AtCoder Problemsにログインできる状態にしておいてください。
 
 
 ## 機能

@@ -7,11 +7,11 @@ weight: 01
 まずはここからやってみましょう！
 
 ## 競技プログラミングを始める
-1. [AtCoderに登録してみよう](../atcoder/registration)
-2. [APG4bを解いてみよう](../learning/learn_with_atc/apg4b)
-3. [GitHub Accountを作ろう](../env/GitHub/github)
-4. [AtCoder Problemsを使おう](../atcoder/probs)
+1. [AtCoderに登録してみよう](../../atcoder/registration)
+2. [APG4bを解いてみよう](../../learning/learn_with_atc/apg4b)
+3. [GitHub Accountを作ろう](../../env/GitHub/github)
+4. [AtCoder Problemsを使おう](../../atcoder/probs)
 
 ## 活動に参加する
-1. [Discordに登録しよう](../env/discord)
-2. [バーチャルコンテストに参加しよう](../atcoder/virtual_contest)
+1. [Discordに登録しよう](../../env/discord)
+2. [バーチャルコンテストに参加しよう](../../atcoder/virtual_contest)
