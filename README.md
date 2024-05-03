@@ -1,4 +1,5 @@
 # O-tips tutorial
+https://o-tips.github.io/tutorial/
 
 ## What
 O-tipsで一年生向けに毎年おこなっている内容をまとめます。
